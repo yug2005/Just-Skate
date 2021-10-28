@@ -6,10 +6,10 @@ In this Unreal Engine 4 project, I implemented the skateboard and skatepark asse
 
 ## Preview Images
 
-<img src="https://github.com/yug2005/Just-Skate/blob/master/Project%20Images/Just%20Skate%20Preview%20Image%2003.png" width="600"/>
-<img src="https://github.com/yug2005/Just-Skate/blob/master/Project%20Images/Just%20Skate%20Preview%20Image%2005.png" width="600"/>
-<img src="https://github.com/yug2005/Just-Skate/blob/master/Project%20Images/Just%20Skate%20Preview%20Image%2009.png" width="600"/>
-<img src="https://github.com/yug2005/Just-Skate/blob/master/Project%20Images/Just%20Skate%20Preview%20Image%2010.png" width="600"/>
+<img src="https://github.com/yug2005/Just-Skate/blob/master/Project%20Images/Just%20Skate%20Preview%20Image%2003.png"/>
+<img src="https://github.com/yug2005/Just-Skate/blob/master/Project%20Images/Just%20Skate%20Preview%20Image%2005.png"/>
+<img src="https://github.com/yug2005/Just-Skate/blob/master/Project%20Images/Just%20Skate%20Preview%20Image%2009.png"/>
+<img src="https://github.com/yug2005/Just-Skate/blob/master/Project%20Images/Just%20Skate%20Preview%20Image%2010.png"/>
 
 
 ## Contents
