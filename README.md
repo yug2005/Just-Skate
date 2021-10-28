@@ -4,6 +4,14 @@
 
 In this Unreal Engine 4 project, I implemented the skateboard and skatepark assets that I created in Blender and Substance Painter into a skateboarding game. The player is given control of a skateboard and maneuvers it across the skatepark. The physics and mechanics system are not complete and I am currently struggling to implement the collisions for the skatepark mesh.
 
+## Preview Images
+
+<img src="https://github.com/yug2005/Just-Skate/blob/master/Project%20Images/Just%20Skate%20Preview%20Image%2003.png" width="600"/>
+<img src="https://github.com/yug2005/Just-Skate/blob/master/Project%20Images/Just%20Skate%20Preview%20Image%2005.png" width="600"/>
+<img src="https://github.com/yug2005/Just-Skate/blob/master/Project%20Images/Just%20Skate%20Preview%20Image%2009.png" width="600"/>
+<img src="https://github.com/yug2005/Just-Skate/blob/master/Project%20Images/Just%20Skate%20Preview%20Image%2010.png" width="600"/>
+
+
 ## Contents
 
 The following outlines the contents of the important folders. 
